@@ -1,0 +1,9 @@
+../Drivers/AS5x47PS/EncoderFns.c:12:9:AS5047_checkEncoderHealth	8	static
+../Drivers/AS5x47PS/EncoderFns.c:23:6:SetupABIwithoutPWM	16	static
+../Drivers/AS5x47PS/EncoderFns.c:42:9:Check_ABI_SetCorrectly	16	static
+../Drivers/AS5x47PS/EncoderFns.c:53:9:setupMotorEncoder_inABI_Mode	16	static
+../Drivers/AS5x47PS/EncoderFns.c:65:9:updateEncoderZeroPosition	24	static
+../Drivers/AS5x47PS/EncoderFns.c:81:9:AS5047_EnableMagErrors	16	static
+../Drivers/AS5x47PS/EncoderFns.c:101:10:getEncoderStartPosition	16	static
+../Drivers/AS5x47PS/EncoderFns.c:111:7:getEncoderAngleFromABI	24	static
+../Drivers/AS5x47PS/EncoderFns.c:120:7:getEncoderAngleFromSPI	32	static
